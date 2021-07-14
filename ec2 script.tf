@@ -1,7 +1,7 @@
 //make sure to change access keys and secret keys
 provider "aws" {
-    access_key = "AKIATLPTDGMUTKL7DSW7"
-    secret_key = "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"
+    access_key = "Acess_Key"
+    secret_key = "Secret_key"
     region     = "eu-west-2"
 }
 
