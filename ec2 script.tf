@@ -1,5 +1,6 @@
 //Creating an EC2 instance
 //testing
+//helllo
 provider "aws" {
     access_key = "AKIATLPTDGMUTKL7DSW7"
     secret_key = "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"
